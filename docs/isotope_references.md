@@ -4,7 +4,7 @@
   - 1000260570 (<sup>57</sup>Fe) — 2.12% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
   - 1000260580 (<sup>58</sup>Fe) — 0.28% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
 - Nickel:
-  - 1000280580 (<sup>58</sup>Ni) — 68.1% — [Source](https://www.sciencedirect.com/science/article/pii/0375947483906322)
+  - 1000280580 (<sup>58</sup>Ni) — 68.1% — [J. Rapaport et al., Nucl. Phys. A 410, 371–398 (1983)](https://www.sciencedirect.com/science/article/pii/0375947483906322) + [Y. Fujita, et al., Eur. Phys. J. A 13, 411–418 (2002)](https://link.springer.com/article/10.1140/epja/iepja1344)
   - 1000280600 (<sup>60</sup>Ni) — 26.2% — [Source](https://www.sciencedirect.com/science/article/pii/0375947483906322)
   - 1000280610 (<sup>61</sup>Ni) — 1.14% — N/A
   - 1000280620 (<sup>62</sup>Ni) — 3.63% — N/A
