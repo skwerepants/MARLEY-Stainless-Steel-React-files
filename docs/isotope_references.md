@@ -1,0 +1,18 @@
+- Iron:
+  - 1000260540 (<sup>54</sup>Fe) — 5.85% — [Source 1](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.85.024308), [Source 2](https://www.sciencedirect.com/science/article/pii/0375947483906322)
+  - 1000260560 (<sup>56</sup>Fe) — 91.8% — [Source](https://www.sciencedirect.com/science/article/pii/0375947483906322)
+  - 1000260570 (<sup>57</sup>Fe) — 2.12% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
+  - 1000260580 (<sup>58</sup>Fe) — 0.28% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
+- Nickel:
+  - 1000280580 (<sup>58</sup>Ni) — 68.1% — [Source](https://www.sciencedirect.com/science/article/pii/0375947483906322)
+  - 1000280600 (<sup>60</sup>Ni) — 26.2% — [Source](https://www.sciencedirect.com/science/article/pii/0375947483906322)
+  - 1000280610 (<sup>61</sup>Ni) — 1.14% — N/A
+  - 1000280620 (<sup>62</sup>Ni) — 3.63% — N/A
+  - 1000280640 (<sup>64</sup>Ni) — 0.926% — [Source](https://journals.aps.org/prc/abstract/10.1103/PhysRevC.79.064312)
+- Chromium:
+  - 1000240500 (<sup>50</sup>Cr) — 4.34% — [Source 1](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.112.112502), [Source 2](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.95.212501)
+  - 1000240520 (<sup>52</sup>Cr) — 83.8% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
+  - 1000240530 (<sup>53</sup>Cr) — 9.5% — N/A
+  - 1000240540 (<sup>54</sup>Cr) — 2.37% — [Source](https://www.sciencedirect.com/science/article/pii/0375947488903983)
+- Manganese:
+  - 1000250550 (<sup>55</sup>Mn) — 100% — N/A
